@@ -96,5 +96,4 @@ dmypy.json
 # OneDrive temp files
 ~$*
 
-# Dataset (git ignore by default; include if you want to track)
-/dataset/
+# Dataset: agora incluiremos o diretório `dataset/` no repositório (removido da ignorância)
